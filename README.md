@@ -1,6 +1,8 @@
 # Marketing Analytics
+![image](https://user-images.githubusercontent.com/56788883/222973201-e9d4ae1e-720d-47e6-b62f-cc18cfb5eb0b.png)
 
-## Statment of the problem
+
+## Problem Statment
 Vodafone Egypt is launching a marketing campaign in Ramadan to promote their sales and increase their profit from selling the prepaid recharge cards. These cards are worth 5, 10, 15, 50, and 100 EGP. 
 
 The data science team at Vodafone are analyzing the customers’ data which include the customer personal information, the prepaid card they purchased, the timestamp they registered the prepaid amount on their Vodafone accounts, among other information. 
@@ -11,7 +13,7 @@ Prepaid Card Amount.
 
 YWe want to generate a report using MapReduce (similar to the WordCount program) showing the total amount of prepaid cards for each customer that they have purchased. For example, if a customer with ID 300 purchased 5 cards with 10, 15, 15, 10, 100, then the report should include that customer ID 300 bought cards with a total amount of 150. 
 >> Disclaimer: Thanks to Vodafone DS team who provided us with this real customer data. 
-
+>> [Download the Data from here](https://drive.google.com/file/d/1L1PSvBV3-hfyOCwPyjZBzBVTMhd7MF8a/view?usp=share_link).
 
 ## Implementation
 ### Map Function
