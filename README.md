@@ -1,4 +1,4 @@
-# Marketing Analytics
+# Vodafone Marketing Analytics
 ![image](https://user-images.githubusercontent.com/56788883/222973201-e9d4ae1e-720d-47e6-b62f-cc18cfb5eb0b.png)
 
 
